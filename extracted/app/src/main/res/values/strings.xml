@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">المارد</string>
+    <string name="acc_desc">يسمح للمارد برؤية الشاشة والضغط والكتابة وفتح التطبيقات بأمر صوتي منك.</string>
+</resources>
